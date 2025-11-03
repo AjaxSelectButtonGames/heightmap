@@ -1,0 +1,540 @@
+﻿{
+    "terrains": [],
+    "colliders": [
+        {
+            "name": "house 01",
+            "type": "MeshCollider",
+            "position": {
+                "x": 929.4000244140625,
+                "y": 5.75,
+                "z": 858.3499755859375
+            },
+            "rotation": {
+                "x": -0.5132474303245544,
+                "y": -0.48639196157455447,
+                "z": -0.48639196157455447,
+                "w": 0.5132473111152649
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 100.0,
+                "z": 100.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "Cube:018_Cube:163",
+            "meshBoundsCenter": {
+                "x": 0.02183409221470356,
+                "y": 0.025867188349366189,
+                "z": 0.015815896913409234
+            },
+            "meshBoundsSize": {
+                "x": 0.07879401743412018,
+                "y": 0.1620267927646637,
+                "z": 0.08914759755134583
+            }
+        },
+        {
+            "name": "shop",
+            "type": "MeshCollider",
+            "position": {
+                "x": 935.47119140625,
+                "y": 4.28000020980835,
+                "z": 841.5599975585938
+            },
+            "rotation": {
+                "x": 8.146033536604591e-8,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 100.0,
+                "z": 100.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "Cube:083_Cube:078.001",
+            "meshBoundsCenter": {
+                "x": -0.007593756541609764,
+                "y": -0.0034779729321599008,
+                "z": -0.020991625264286996
+            },
+            "meshBoundsSize": {
+                "x": 0.11743240058422089,
+                "y": 0.05012708157300949,
+                "z": 0.09361855685710907
+            }
+        },
+        {
+            "name": "station ",
+            "type": "MeshCollider",
+            "position": {
+                "x": 945.5399780273438,
+                "y": 1.75,
+                "z": 840.81201171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "",
+            "meshBoundsCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshBoundsSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "station 01",
+            "type": "MeshCollider",
+            "position": {
+                "x": 946.5440063476563,
+                "y": 3.9295966625213625,
+                "z": 840.6056518554688
+            },
+            "rotation": {
+                "x": 8.146033536604591e-8,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 100.0,
+                "z": 100.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "station 01",
+            "meshBoundsCenter": {
+                "x": 0.00015846267342567444,
+                "y": 0.0014921026304364205,
+                "z": -0.019483858719468118
+            },
+            "meshBoundsSize": {
+                "x": 0.04163207858800888,
+                "y": 0.043320395052433017,
+                "z": 0.0595097579061985
+            }
+        },
+        {
+            "name": "station 02",
+            "type": "MeshCollider",
+            "position": {
+                "x": 942.1763305664063,
+                "y": 3.7202436923980715,
+                "z": 839.9532470703125
+            },
+            "rotation": {
+                "x": 8.146033536604591e-8,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 100.0,
+                "z": 100.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "station 02",
+            "meshBoundsCenter": {
+                "x": 0.0021183090284466745,
+                "y": 0.001118888147175312,
+                "z": -0.013364403508603573
+            },
+            "meshBoundsSize": {
+                "x": 0.041581302881240848,
+                "y": 0.041180551052093509,
+                "z": 0.06046230345964432
+            }
+        },
+        {
+            "name": "station 03",
+            "type": "MeshCollider",
+            "position": {
+                "x": 945.5604248046875,
+                "y": 4.137848854064941,
+                "z": 840.5393676757813
+            },
+            "rotation": {
+                "x": 8.146033536604591e-8,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 100.0,
+                "y": 100.0,
+                "z": 100.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "station 03",
+            "meshBoundsCenter": {
+                "x": 0.005888748914003372,
+                "y": -0.01946723833680153,
+                "z": -0.012670181691646576
+            },
+            "meshBoundsSize": {
+                "x": 0.11737609654664993,
+                "y": 0.008371960371732712,
+                "z": 0.1425834596157074
+            }
+        },
+        {
+            "name": "station ",
+            "type": "MeshCollider",
+            "position": {
+                "x": 945.5399780273438,
+                "y": 1.75,
+                "z": 840.81201171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "",
+            "meshBoundsCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshBoundsSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "church",
+            "type": "MeshCollider",
+            "position": {
+                "x": 958.8499755859375,
+                "y": 4.809999942779541,
+                "z": 839.8300170898438
+            },
+            "rotation": {
+                "x": 8.146033536604591e-8,
+                "y": -3.2584134146418366e-7,
+                "z": 2.6543146207456265e-14,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 149.89266967773438,
+                "y": 148.67578125,
+                "z": 130.1699981689453
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "Cube:002_Cube:026",
+            "meshBoundsCenter": {
+                "x": -2.2910535335540772e-7,
+                "y": 0.003083568997681141,
+                "z": 0.00018981285393238068
+            },
+            "meshBoundsSize": {
+                "x": 0.03295699879527092,
+                "y": 0.05204359441995621,
+                "z": 0.07290424406528473
+            }
+        },
+        {
+            "name": "Terrain",
+            "type": "TerrainCollider",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "boxCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "boxSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sphereRadius": 0.0,
+            "sphereCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "capsuleRadius": 0.0,
+            "capsuleHeight": 0.0,
+            "capsuleDirection": 0,
+            "meshName": "",
+            "meshBoundsCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshBoundsSize": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ],
+    "spawnPoints": [
+        {
+            "name": "Planter_Spawn_135949",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "Spawn1",
+            "position": {
+                "x": 860.7874145507813,
+                "y": 7.510000228881836,
+                "z": 859.6353759765625
+            }
+        }
+    ],
+    "heightmaps": [
+        {
+            "path": "Terrain_hmap_1024x1024.raw",
+            "format": "raw16le",
+            "width": 1024,
+            "height": 1024,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "size": {
+                "x": 1000.0,
+                "y": 600.0,
+                "z": 1000.0
+            },
+            "minY": 0.0,
+            "maxY": 600.0,
+            "actualMinY": 0.0,
+            "actualMaxY": 32.62336730957031
+        }
+    ]
+}
